@@ -27,10 +27,10 @@
 
 <h3 align="center">Connect with me 📩</h2>
 <div align="center">
-<a href="https://github.com/Ho3einWave">
+<a href="https://github.com/mahbodfl">
 <img align="center" alt="M-thefl | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
 </a>
-<a href="https://www.instagram.com/Ho3einwave_/">
+<a href="https://www.instagram.com/mahbodfl/">
 <img align="center" alt="mahbodfl | Instagram"  src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF" />
 </a>
 <a href="https://obsv.ga/main">
