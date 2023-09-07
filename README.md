@@ -1,6 +1,5 @@
 <h2 align="left">🌙🌙🌙</h2>
 
-![test](https://cdn.wallpapersafari.com/36/82/8XLt1s.gif)
 
 <h3 align="center">My Skills 👓</h3>
 <div align="center">
