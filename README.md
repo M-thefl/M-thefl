@@ -1,7 +1,7 @@
 <h2 align="left">🌙🌙🌙</h2>
 
 
-<h3 align="center">My Skills 👓</h3>
+<h3 align="center">Stats 👓</h3>
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
