@@ -1,7 +1,4 @@
-<h2 align="left">🌙🌙🌙</h2>
-
-
-<h3 align="center">Stats 👓</h3>
+<h3 align="center">💻Tech Stack:</h3>
 <div align="center">
 <p align="center">
     <a href="https://skillicons.dev">
